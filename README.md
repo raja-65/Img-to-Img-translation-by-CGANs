@@ -34,4 +34,4 @@ We investigate conditional adversarial networks as a general-purpose solution to
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-```
+```"# Img-to-Img-translation-by-CGANs" 
